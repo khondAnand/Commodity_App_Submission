@@ -1,0 +1,47 @@
+body {
+    /* background-image: url("Images/bg_2.jpg");
+    background-size: cover;
+    opacity: 0.9; */
+    background-color: black;
+}
+
+.td {
+    display: none;
+}
+
+.td:hover {
+    background: none;
+}
+
+.td:hover {
+    display: block;
+}
+
+.names_commodity {
+    color: white;
+}
+
+.price_commodity {
+    color: white;
+}
+
+.price_change {
+    font-weight: bold;
+}
+
+.h2 {
+    color: white;
+    padding: 10px;
+}
+
+.para {
+    color: white;
+    padding: 10px;
+}
+
+
+a:link {
+    text-decoration: none;
+}
+
+
